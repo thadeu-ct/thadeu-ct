@@ -1,4 +1,4 @@
-##👋 Olá, eu sou o Thadeu!
+## 👋 Olá, eu sou o Thadeu!
 
 🎓 Estudante de Engenharia da Computação na PUC-Rio  
 🧠 Curioso por natureza, movido por projetos e desafios reais  

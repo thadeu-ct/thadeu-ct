@@ -22,6 +22,7 @@
   <a href="#"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
   <a href="#"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
   <a href="#"><img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" alt="WebAssembly"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercely&logoColor=white" alt="Vercel"></a>
 </p>
 
 # 📊 GitHub Stats:

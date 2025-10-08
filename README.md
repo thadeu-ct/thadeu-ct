@@ -1,19 +1,6 @@
 ## 👋 Olá, eu sou o Thadeu!
 Sou um eterno aprendiz e estudante de Engenharia da Computação. Minha jornada na tecnologia é movida pela curiosidade, sempre explorando novas linguagens, arquiteturas e ferramentas para expandir meu repertório. Acredito que cada projeto é uma nova oportunidade de aprender e evoluir como desenvolvedor.
 
-## 📌 Projetos em Destaque
-Synapse - Plataforma de Troca de Conhecimento</br>
-Uma plataforma web full-stack para conectar pessoas que querem ensinar e aprender. Foi meu primeiro mergulho no desenvolvimento backend, aprendendo a criar uma API serverless, gerenciar um banco de dados e integrar com o frontend em um projeto colaborativo.</br>
-🔗 [Ver o projeto](https://thadeu-ct.github.io/synapse)
-
-Meu Portfólio Pessoal</br>
-Meu cartão de visitas digital, onde apresento minha jornada e projetos. Foi um projeto essencial para aprofundar meus conhecimentos em frontend e início de banco de dados e sistema serverless, aprendendo a carregar componentes dinamicamente e a estruturar a interatividade de uma página web.</br>
-🔗 [Ver o projeto](https://thadeu-ct.github.io/portfolio/)
-
-Sudoku Solver</br>
-O motor lógico de um jogo de Sudoku, escrito em C. O projeto foi um desafio de recursividade onde implementei o algoritmo de backtracking para resolver qualquer tabuleiro válido. O próximo passo é levar essa lógica para a web com WebAssembly, criando uma experiência de jogo interativa.</br>
-🔗 [Ver o projeto](https://github.com/thadeu-ct/sudoku)
-
 ## 🚀 Minha Caixa de Ferramentas
 **Tecnologias que domino:**
 <p align="left">
@@ -33,6 +20,22 @@ O motor lógico de um jogo de Sudoku, escrito em C. O projeto foi um desafio de 
   <a href="#"><img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" alt="WebAssembly"></a>
 </p>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thadeu-ct&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 📌 Projetos em Destaque
+Synapse - Plataforma de Troca de Conhecimento</br>
+Uma plataforma web full-stack para conectar pessoas que querem ensinar e aprender. Foi meu primeiro mergulho no desenvolvimento backend, aprendendo a criar uma API serverless, gerenciar um banco de dados e integrar com o frontend em um projeto colaborativo.</br>
+🔗 [Ver o projeto](https://thadeu-ct.github.io/synapse)
+
+Meu Portfólio Pessoal</br>
+Meu cartão de visitas digital, onde apresento minha jornada e projetos. Foi um projeto essencial para aprofundar meus conhecimentos em frontend e início de banco de dados e sistema serverless, aprendendo a carregar componentes dinamicamente e a estruturar a interatividade de uma página web.</br>
+🔗 [Ver o projeto](https://thadeu-ct.github.io/portfolio/)
+
+Sudoku Solver</br>
+O motor lógico de um jogo de Sudoku, escrito em C. O projeto foi um desafio de recursividade onde implementei o algoritmo de backtracking para resolver qualquer tabuleiro válido. O próximo passo é levar essa lógica para a web com WebAssembly, criando uma experiência de jogo interativa.</br>
+🔗 [Ver o projeto](https://github.com/thadeu-ct/sudoku)
+
 ## 📬 Contato
 <p align="left">
   <a href="https://thadeu-ct.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
@@ -40,6 +43,3 @@ O motor lógico de um jogo de Sudoku, escrito em C. O projeto foi um desafio de 
   <a href="https://www.linkedin.com/in/thadeu-ct/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:thadeu.ct@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thadeu-ct&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)

@@ -34,7 +34,7 @@ Meu cartão de visitas digital, onde apresento minha jornada e projetos. Foi um 
 
 Sudoku Solver</br>
 O motor lógico de um jogo de Sudoku, escrito em C. O projeto foi um desafio de recursividade onde implementei o algoritmo de backtracking para resolver qualquer tabuleiro válido. O próximo passo é levar essa lógica para a web com WebAssembly, criando uma experiência de jogo interativa.</br>
-🔗 [Ver o projeto](https://github.com/thadeu-ct/sudoku)
+🔗 [Ver o projeto](https://thadeu-ct.github.io/sudoku)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thadeu-ct&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)

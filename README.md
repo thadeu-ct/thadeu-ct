@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou o Thadeu!
+# 👋 Olá, eu sou o Thadeu!
 Sou um eterno aprendiz e estudante de Engenharia da Computação. Minha jornada na tecnologia é movida pela curiosidade, sempre explorando novas linguagens, arquiteturas e ferramentas para expandir meu repertório. Acredito que cada projeto é uma nova oportunidade de aprender e evoluir como desenvolvedor.
 
 ## 🚀 Minha Caixa de Ferramentas
@@ -25,19 +25,19 @@ Sou um eterno aprendiz e estudante de Engenharia da Computação. Minha jornada 
 </p>
 
 ## 📌 Projetos em Destaque
-Synapse - Plataforma de Troca de Conhecimento</br>
+###Synapse - Plataforma de Troca de Conhecimento
 Uma plataforma web full-stack para conectar pessoas que querem ensinar e aprender. Foi meu primeiro mergulho no desenvolvimento backend, aprendendo a criar uma API serverless, gerenciar um banco de dados e integrar com o frontend em um projeto colaborativo.</br>
 🔗 [Ver o projeto](https://thadeu-ct.github.io/synapse)
 
-Meu Portfólio Pessoal</br>
+###Meu Portfólio Pessoal
 Meu cartão de visitas digital, onde apresento minha jornada e projetos. Foi um projeto essencial para aprofundar meus conhecimentos em frontend e início de banco de dados e sistema serverless, aprendendo a carregar componentes dinamicamente e a estruturar a interatividade de uma página web.</br>
 🔗 [Ver o projeto](https://thadeu-ct.github.io/portfolio/)
 
-Sudoku Solver</br>
-O motor lógico de um jogo de Sudoku, escrito em C. O projeto foi um desafio de recursividade onde implementei o algoritmo de backtracking para resolver qualquer tabuleiro válido. O próximo passo é levar essa lógica para a web com WebAssembly, criando uma experiência de jogo interativa.</br>
+###Sudoku Solver
+Uma aplicação web interativa de Sudoku cujo motor lógico, escrito em C e baseado no algoritmo de backtracking, é executado no navegador via WebAssembly. O projeto demonstra uma poderosa integração da performance do C com as tecnologias de frontend (HTML, CSS, JavaScript).</br>
 🔗 [Ver o projeto](https://thadeu-ct.github.io/sudoku)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thadeu-ct&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 📬 Contato

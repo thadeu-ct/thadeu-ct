@@ -25,15 +25,15 @@ Sou um eterno aprendiz e estudante de Engenharia da Computação. Minha jornada 
 </p>
 
 ## 📌 Projetos em Destaque
-###Synapse - Plataforma de Troca de Conhecimento
+### Synapse - Plataforma de Troca de Conhecimento
 Uma plataforma web full-stack para conectar pessoas que querem ensinar e aprender. Foi meu primeiro mergulho no desenvolvimento backend, aprendendo a criar uma API serverless, gerenciar um banco de dados e integrar com o frontend em um projeto colaborativo.</br>
 🔗 [Ver o projeto](https://thadeu-ct.github.io/synapse)
 
-###Meu Portfólio Pessoal
+### Meu Portfólio Pessoal
 Meu cartão de visitas digital, onde apresento minha jornada e projetos. Foi um projeto essencial para aprofundar meus conhecimentos em frontend e início de banco de dados e sistema serverless, aprendendo a carregar componentes dinamicamente e a estruturar a interatividade de uma página web.</br>
 🔗 [Ver o projeto](https://thadeu-ct.github.io/portfolio/)
 
-###Sudoku Solver
+### Sudoku Solver
 Uma aplicação web interativa de Sudoku cujo motor lógico, escrito em C e baseado no algoritmo de backtracking, é executado no navegador via WebAssembly. O projeto demonstra uma poderosa integração da performance do C com as tecnologias de frontend (HTML, CSS, JavaScript).</br>
 🔗 [Ver o projeto](https://thadeu-ct.github.io/sudoku)
 

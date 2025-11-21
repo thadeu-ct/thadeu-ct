@@ -27,7 +27,7 @@ Sou um eterno aprendiz e estudante de Engenharia da Computação. Minha jornada 
 ## 📌 Projetos em Destaque
 ### Synapse - Plataforma de Troca de Conhecimento
 Uma plataforma web full-stack para conectar pessoas que querem ensinar e aprender. Foi meu primeiro mergulho no desenvolvimento backend, aprendendo a criar uma API serverless, gerenciar um banco de dados e integrar com o frontend em um projeto colaborativo.</br>
-🔗 [Ver o projeto](https://thadeu-ct.github.io/synapse)
+🔗 [Ver o projeto](synapse-seven-mu.vercel.app)
 
 ### Meu Portfólio Pessoal
 Meu cartão de visitas digital, onde apresento minha jornada e projetos. Foi um projeto essencial para aprofundar meus conhecimentos em frontend e início de banco de dados e sistema serverless, aprendendo a carregar componentes dinamicamente e a estruturar a interatividade de uma página web.</br>

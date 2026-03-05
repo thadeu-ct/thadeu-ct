@@ -38,9 +38,6 @@ Meu cartão de visitas digital, onde apresento minha jornada e projetos. Foi um 
 Uma aplicação web interativa de Sudoku cujo motor lógico, escrito em C e baseado no algoritmo de backtracking, é executado no navegador via WebAssembly. O projeto demonstra uma poderosa integração da performance do C com as tecnologias de frontend (HTML, CSS, JavaScript).</br>
 🔗 [Ver o projeto](https://thadeu-ct.github.io/sudoku)
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thadeu-ct&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 ## 📬 Contato
 <p align="left">
   <a href="https://thadeu-ct.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>

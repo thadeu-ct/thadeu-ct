@@ -10,6 +10,7 @@ Sou um eterno aprendiz e estudante de Engenharia da Computação e Engenharia El
   <a href="#"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
   <a href="#"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
   <a href="#"><img src="https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"></a>
+  <a href="#"><img src="https://img.shields.io/badge/VHDL-000000?style=for-the-badge&logo=VHDL&logoColor=white" alt="VHDL"/></a>
 </p></br>
 
 **Tecnologias com que estou construindo (Aprendendo & Evoluindo):**
